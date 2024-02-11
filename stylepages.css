@@ -32,11 +32,11 @@ nav  {
 
 main{
     /* background-color:blueviolet; */
-    height: 400px;
+    /* height: 400px; */
     text-align: center;
     margin-top: 88px;
-    padding-left: 240px;
-    padding-right: 240px;
+    padding-left: 140px;
+    padding-right: 140px;
 }
 
 footer{
@@ -83,7 +83,13 @@ nav a {
     padding-left: 14px;
     padding-right: 14px;
 }
-.pfootclass {
-    text-decoration: none;
-    color: white;
+.map {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.containerbox {
+    display: flex;
+    /*flex-direction: row;*/
+    justify-content: space-evenly;
+
 }
