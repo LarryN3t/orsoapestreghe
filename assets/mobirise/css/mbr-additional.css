@@ -1306,27 +1306,6 @@ a {
 .cid-u49hVI8klQ .grid-container-2 {
   align-items: flex-start;
 }
-.cid-tJS9pBcTSa {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tJS9pBcTSa .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-tJS9pBcTSa form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-tJS9pBcTSa form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-tJS9pBcTSa form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
 .cid-tLdYHD757A {
   padding-top: 6rem;
   padding-bottom: 6rem;
