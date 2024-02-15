@@ -1306,6 +1306,30 @@ a {
 .cid-u49hVI8klQ .grid-container-2 {
   align-items: flex-start;
 }
+.cid-u4mm0euqHn {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/screenshot-20230712-065353-whatsapp-1079x1361.jpeg");
+}
+.cid-u4mm0euqHn .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-u4mm0euqHn form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-u4mm0euqHn form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-u4mm0euqHn form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-u4mm0euqHn .content-head {
+  max-width: 800px;
+}
 .cid-tLdYHD757A {
   padding-top: 6rem;
   padding-bottom: 6rem;
