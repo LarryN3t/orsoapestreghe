@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "www.mielediorso.it",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -54,8 +54,8 @@
     "versionPublish": "5.9.15",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": false,
-    "mbrsiteDomain": "ktjot1jvkl",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x29.png",
+    "mbrsiteDomain": "ucum9h5xu8",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -63,8 +63,26 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#2b7a69",
+      "rejectColor": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacityOverlay": "0",
+      "bgOpacity": "100",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
+      "rejectText": "REJECT"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true
